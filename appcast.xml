@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>MineSeeder X Changelog</title>
+      <link>http://kyrox.github.com/MineSeeder-X/appcast.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+      <item>
+         <title>Version 1.0.2 (1 new feature)</title>
+					<sparkle:releaseNotesLink>http://kyrox.github.com/MineSeeder-X/changelog/1.0.2.html</sparkle:releaseNotesLink>
+         <pubDate>Wed, 26 Jan 2011 07:11:00 +0000</pubDate>
+         <enclosure url="https://github.com/downloads/Kyrox/MineSeeder-X/MineSeeder%20X%201.0.2.zip" sparkle:version="1.0.2" length="3056" type="application/octet-stream" sparkle:dsaSignature="MEQCIAuWyk65L+bs0v59CxeX8N9mF6A1tJk+nvETo7u7Tjq+AiBFHAcC+KMCg5v7Lux5MsLRR/DqUm5oWeXkV0NfiIt2xA==" />
+      </item>
+      <item>
+         <title>Version 1.0.1 (1 new feature)</title>
+					<sparkle:releaseNotesLink>http://kyrox.github.com/MineSeeder-X/changelog/1.0.1.html</sparkle:releaseNotesLink>
+         <pubDate>Wed, 26 Jan 2011 06:54:00 +0000</pubDate>
+         <enclosure url="https://github.com/downloads/Kyrox/MineSeeder-X/MineSeeder%20X%201.0.1.zip" sparkle:version="1.0.1" length="3056" type="application/octet-stream" sparkle:dsaSignature="MEQCIAuWyk65L+bs0v59CxeX8N9mF6A1tJk+nvETo7u7Tjq+AiBFHAcC+KMCg5v7Lux5MsLRR/DqUm5oWeXkV0NfiIt2xA==" />
+      </item>
+   </channel>
+</rss>
