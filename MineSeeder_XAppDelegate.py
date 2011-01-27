@@ -11,4 +11,4 @@ from AppKit import *
 
 class MineSeeder_XAppDelegate(NSObject):
     def applicationDidFinishLaunching_(self, sender):
-        NSLog("Application did finish launching.")
+        #NSLog("Application did finish launching.")

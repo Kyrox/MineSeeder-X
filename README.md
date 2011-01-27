@@ -4,7 +4,7 @@ An almost-clone of the [MineSeeder program for Windows](http://www.minecraftforu
 
 ![Screenshot](https://github.com/Kyrox/MineSeeder-X/raw/master/README_Images/Screenshot.png)
 
-## [Download V1.0.1](https://github.com/downloads/Kyrox/MineSeeder-X/MineSeeder%20X%201.0.1.zip)
+## [Download V1.0.2](https://github.com/downloads/Kyrox/MineSeeder-X/MineSeeder%20X%201.0.2.zip)
 
 Tested and working on 10.5 Leopard, and 10.6 Snow Leopard.
 

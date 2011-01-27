@@ -127,8 +127,9 @@ class MSXAppController (NSObject):
 			# Generate the paths...
 			mc_level_folder = os.path.join(self.mc_saves_folder, ('World'+str(tag)))
 			mc_level_file = os.path.join(mc_level_folder, 'level.dat')
-			# ...create the necessary folders...
-			os.makedirs(mc_level_folder)
+			# ...create the necessary folders... (Fixed: only if it doesn't exist)
+			if not os.path.isdir(mc_level_folder):
+				os.makedirs(mc_level_folder)
 			# ...and write the level.dat file.
 			model.write_nbt(mc_level_file)
 			# Then refresh the worlds so the newly generated one appears.
@@ -151,7 +152,12 @@ class MSXAppController (NSObject):
 	@objc.IBAction
 	def refresh_(self, sender):
 		self.load_worlds()
-
+	
+	@objc.IBAction
+	def new_(self, sender):
+		self.window.makeKeyAndOrderFront_(sender)
+		self.load_worlds()
+	
 	# --------------------
 	# Helpers
 	# --------------------
