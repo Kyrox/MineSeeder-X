@@ -9,7 +9,7 @@
          <title>Version 1.0.2 (2 new features, 1 bug fix)</title>
 					<sparkle:releaseNotesLink>http://kyrox.github.com/MineSeeder-X/changelog/1.0.2.html</sparkle:releaseNotesLink>
          <pubDate> Thu, 27 Jan 2011 08:09:58 -0800</pubDate>
-         <enclosure url="http://cloud.github.com/downloads/Kyrox/MineSeeder-X/MineSeeder X 1.0.1.zip" sparkle:version="1.0.2" length="1568" type="application/octet-stream" sparkle:dsaSignature="MC0CFDoJdAajEr8N7zZVGOJ/I6v9hIOVAhUAoJ8NsyM/BDC64loj/AGL5P2hI/I=" />
+         <enclosure url="http://cloud.github.com/downloads/Kyrox/MineSeeder-X/MineSeeder X 1.0.2.zip" sparkle:version="1.0.2" length="1568" type="application/octet-stream" sparkle:dsaSignature="MC0CFDoJdAajEr8N7zZVGOJ/I6v9hIOVAhUAoJ8NsyM/BDC64loj/AGL5P2hI/I=" />
       </item>
    </channel>
 </rss>
