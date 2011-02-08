@@ -12,6 +12,7 @@
 		3B4A557112EE403D008CA19A /* nbt.py in Resources */ = {isa = PBXBuildFile; fileRef = 3B4A556F12EE403D008CA19A /* nbt.py */; };
 		3B4A557312EE4099008CA19A /* MSXAppController.py in Resources */ = {isa = PBXBuildFile; fileRef = 3B4A557212EE4099008CA19A /* MSXAppController.py */; };
 		3B4A7B8812EE445F008CA19A /* Python in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B4A7B8712EE445F008CA19A /* Python */; };
+		3BA6F72B1301A82400066D88 /* Developer README in Resources */ = {isa = PBXBuildFile; fileRef = 3BA6F72A1301A82400066D88 /* Developer README */; };
 		3BB4FA5F12F068FA00B3F27A /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BB4FA5E12F068FA00B3F27A /* Sparkle.framework */; };
 		3BB4FA6C12F0692800B3F27A /* Sparkle.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 3BB4FA5E12F068FA00B3F27A /* Sparkle.framework */; };
 		3BB4FA7512F06C5A00B3F27A /* dsa_pub.pem in Resources */ = {isa = PBXBuildFile; fileRef = 3BB4FA7412F06C5A00B3F27A /* dsa_pub.pem */; };
@@ -50,6 +51,7 @@
 		3B4A556F12EE403D008CA19A /* nbt.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = nbt.py; sourceTree = "<group>"; };
 		3B4A557212EE4099008CA19A /* MSXAppController.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MSXAppController.py; sourceTree = "<group>"; };
 		3B4A7B8712EE445F008CA19A /* Python */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = Python; path = /System/Library/Frameworks/Python.framework/Versions/2.6/Python; sourceTree = "<absolute>"; };
+		3BA6F72A1301A82400066D88 /* Developer README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Developer README"; sourceTree = "<group>"; };
 		3BB4FA5E12F068FA00B3F27A /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
 		3BB4FA7412F06C5A00B3F27A /* dsa_pub.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dsa_pub.pem; sourceTree = "<group>"; };
 		77631A3E0C0748CF005415CB /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 		29B97314FDCFA39411CA2CEA /* MineSeeder X */ = {
 			isa = PBXGroup;
 			children = (
+				3BA6F72A1301A82400066D88 /* Developer README */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -218,6 +221,7 @@
 				3B4A557312EE4099008CA19A /* MSXAppController.py in Resources */,
 				3B3DB72A12EF3D9800351375 /* Icon.icns in Resources */,
 				3BB4FA7512F06C5A00B3F27A /* dsa_pub.pem in Resources */,
+				3BA6F72B1301A82400066D88 /* Developer README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
